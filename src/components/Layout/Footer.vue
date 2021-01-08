@@ -1,0 +1,5 @@
+<template>
+  <footer>
+    <h1>Footer area</h1>
+  </footer>
+</template>
