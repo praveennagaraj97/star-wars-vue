@@ -1,4 +1,4 @@
-# json-placeholder-app
+
 
 ## Project setup
 ```
